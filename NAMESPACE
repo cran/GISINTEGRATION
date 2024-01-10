@@ -1,0 +1,14 @@
+export("chzInput", 
+	"create_new_data", 
+	"preproc", 
+	"preprocLinkageDBF", 
+	"selVar")
+
+import("shapefiles",
+       "tm",
+       "sf",
+       "stringr",
+       "syn",
+       "RecordLinkage")
+
+importFrom("utils", "head")

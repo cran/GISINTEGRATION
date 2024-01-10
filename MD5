@@ -1,0 +1,12 @@
+1aec5f38fbe127dda098e0b2816f4627 *DESCRIPTION
+9db5b589a0bca9868e9f6c7399e974d8 *NAMESPACE
+c04a7d9359584b95104a1bf843787c1d *R/chzInput.R
+e4c49075a3906fcf9cdb9a9387c6ea13 *R/create_new_data.R
+0b2cb2a59f74353d01b803866f171c62 *R/preproc.R
+4299ca98efa7a20413de86fe38c0138a *R/preprocLinkageDBF.R
+d414666f1e19249cdefb121b5a092ca2 *R/selVar.R
+dc94cde429555f7289fd65f1ce45dd63 *man/chzInput.Rd
+64849e151cb2ab95b7318c3406668d45 *man/create_new_data.Rd
+b5a2983cdede24567a057321af244ae8 *man/preproc.Rd
+03f6b36adf348acb36640a11f14cef60 *man/preprocLinkageDBF.Rd
+1dfb9bd2ed995d84b2ac9937c1f02461 *man/selVar.Rd
